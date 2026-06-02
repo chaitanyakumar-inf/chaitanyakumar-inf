@@ -19,7 +19,7 @@
 <a href="https://www.python.org/"><img src="https://github.com/chaitanyakumar-inf/chaitanyakumar-inf/releases/download/assets/python.png" height=50rem width=50rem></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/chaitanyakumar-inf/chaitanyakumar-inf/releases/download/assets/html-5.png" height=50rem width=50rem></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/chaitanyakumar-inf/chaitanyakumar-inf/releases/download/assets/css-3.png" height=50rem width=50rem></a>
-<a href="https://react.dev/"><img src="https://github.com/chaitanyakumar-inf/chaitanyakumar-inf/releases/download/assets/react.png" height=50rem width=50rem></a>
+<a href="https://react.dev/"><img src="https://github.com/chaitanyakumar-inf/chaitanyakumar-inf/releases/download/assets/react.gif" height=50rem width=50rem></a>
 </h1>
 
 ## Contacts
