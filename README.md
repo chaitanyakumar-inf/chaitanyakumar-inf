@@ -1,5 +1,5 @@
 <h1 align="center">
-  Chaitanya Kumar Sathivada
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Chaitanya+Kumar+Sathivada;Associate+Software+Engineer" alt="Typing SVG" /></a>
   <br>
   <a href="https://www.infinite.com/">
     <img src="https://github.com/chaitanyakumar-inf/chaitanyakumar-inf/releases/download/inf/infinite.png" alt="Infinite Computer Solutions"  height=200rem>
@@ -12,16 +12,9 @@
 
 > **NOTE:** This is an organizational account only. Check out my personal profile for projects.
 
-<!-- HEADER BANNER (Capsule Render) -->
-<p align="center">
-  <img src="https://capsule-render.github.io/api?type=waving&color=auto&height=250&section=header&text=Chaitanya%20Kumar&subtitle=Full%20Stack%20Developer&fontSize=90&animation=fadeIn" alt="Capsule Render Banner" />
-</p>
-
 <!-- TYPING SVG INTRO -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Building+scalable+software...;Always+learning+new+tech;Welcome+to+my+profile! 🚀" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Chaitanya+Kumar+Sathivada;Associate+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">
@@ -48,12 +41,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img height="195" src="https://github-profile-trophy.vercel.app/?username=chaitanyakumar-inf&theme=radical&column=3" alt="GitHub Profile Trophies" />
   </a>
-</p>
-
-<!-- LOWLIGHTER METRICS (Loads image committed directly to your repository by the workflow) -->
-### 📈 Comprehensive Analysis
-<p align="center">
-  <img src="github-metrics.svg" alt="Detailed GitHub Metrics" width="100%" />
 </p>
 
 ## Contacts
