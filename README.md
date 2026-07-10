@@ -12,11 +12,6 @@
 
 > **NOTE:** This is an organizational account only. Check out my personal profile for projects.
 
-<!-- TYPING SVG INTRO -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Chaitanya+Kumar+Sathivada;Associate+Software+Engineer" alt="Typing SVG" /></a>
-</p>
-
 <h3 align="center">
   Toys I Work With
   <br>
@@ -36,7 +31,7 @@
 <!-- README STATS & TROPHIES SIDE-BY-SIDE -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=chaitanyakumar-inf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Chaitanya's GitHub Stats" />
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chaitanyakumar-inf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Chaitanya's GitHub Stats" />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img height="195" src="https://github-profile-trophy.vercel.app/?username=chaitanyakumar-inf&theme=radical&column=3" alt="GitHub Profile Trophies" />
