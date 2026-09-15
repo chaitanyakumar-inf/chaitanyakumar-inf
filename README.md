@@ -1,6 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Chaitanya+Kumar+Sathivada;Associate+Software+Engineer" alt="Typing SVG" /></a>
-  <br>
+  <p> Chaitanya Kumar Sathivada </p>
   <a href="https://www.infinite.com/">
     <img src="https://github.com/chaitanyakumar-inf/chaitanyakumar-inf/releases/download/inf/infinite.png" alt="Infinite Computer Solutions"  height=200rem>
   </a>
