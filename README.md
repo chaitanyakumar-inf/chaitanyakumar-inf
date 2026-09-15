@@ -10,7 +10,7 @@
   Associate Software Engineer at Infinite Computer Solutions, specializing in building innovating solutions with a focus of Agentic AI and Web Development. My experience spans the full stack, with expertise in technologies  like Python and LangGraph, as well as working with Large Language Models (LLMs). Passionate about leveraging cutting-edge technology to solve complex problems and contribute to the future of AI-Driven applications.
 </p>
 
-> **NOTE:** This is an organizational account only. Check out my personal profile for projects.
+> **NOTE:** This is an organizational account.
 
 <h3 align="center">
   Toys I Work With
@@ -21,18 +21,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/chaitanyakumar-inf/chaitanyakumar-inf/releases/download/assets/css-3.png" height=50rem width=50rem></a>
 <a href="https://react.dev/"><img src="https://github.com/chaitanyakumar-inf/chaitanyakumar-inf/releases/download/assets/react.gif" height=50rem width=50rem></a>
 </h1>
-
-## 🕹️ The Contribution Arena
-<!-- SNAKE GAME (Loads from the output branch created by your workflow) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chaitanyakumar-inf/chaitanyakumar-inf/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Game" />
-</p>
-
-<!-- README STATS & TROPHIES SIDE-BY-SIDE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chaitanyakumar-inf/chaitanyakumar-inf/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/chaitanyakumar-inf/chaitanyakumar-inf/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</p>
 
 ## Contacts
 <a href="https://github.com/chaitanyakumar-ReDSeC">
